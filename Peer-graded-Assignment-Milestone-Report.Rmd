@@ -1,7 +1,7 @@
 ---
 title: "Data Science Capstone Peer-graded Assignment: Milestone Report"
-author: "Enrique Estrada"
-date: "October 19, 2018"
+author: "Adeniyi Fasoro"
+date: "July 6, 2020"
 output: html_document
 ---
 ## Introduction
